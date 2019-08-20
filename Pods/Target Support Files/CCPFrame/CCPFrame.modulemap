@@ -1,0 +1,6 @@
+framework module CCPFrame {
+  umbrella header "CCPFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

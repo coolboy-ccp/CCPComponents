@@ -1,0 +1,20 @@
+PODS:
+  - CCPFrame (1.0.0)
+  - CCPSystemSkip (1.0.0)
+
+DEPENDENCIES:
+  - CCPFrame
+  - CCPSystemSkip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CCPFrame
+    - CCPSystemSkip
+
+SPEC CHECKSUMS:
+  CCPFrame: c9b134e9cc069af114aff6328248ed79e9739a5d
+  CCPSystemSkip: a35f5ba1297960547a021a38c198e6f9deded8e4
+
+PODFILE CHECKSUM: 33d065fae6496157ec84c5dd2bb6a2f39c55d840
+
+COCOAPODS: 1.6.1
